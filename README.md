@@ -1,6 +1,10 @@
 # Character counter é um projeto para testar conhecimentos introdutórios em ReactJS
 
 - Imagens de como ficou a interface:
+ 
+![image](https://user-images.githubusercontent.com/4422492/149394688-fb07fdd0-eefc-4dcf-88b3-a77c79bcbb97.png)
+
+O que segue é documentação padrão do react
 
 # Getting Started with Create React App
 
