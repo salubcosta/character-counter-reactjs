@@ -1,3 +1,7 @@
+# Character counter é um projeto para testar conhecimentos introdutórios em ReactJS
+
+- Imagens de como ficou a interface:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
